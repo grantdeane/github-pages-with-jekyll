@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+You can find my professional profile at:
+https://scripps.ucsd.edu/profiles/gdeane
